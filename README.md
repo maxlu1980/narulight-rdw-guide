@@ -1,33 +1,10 @@
-# Narulight RDW Method — Interactive Guide
+# Narulight in Taiwan by Good Startup
 
-Interactive product / method guide for **ナルライト注入防水層再生工法**
-(Regeneration of Damaged Waterproofing Membrane Method).
+Interactive guide to **ナルライト注入用** (水性石油樹脂・アクリル系 注入防水材) and the 防水層再生工法 — 繁體中文 / 日本語 / English.
 
-**Live demo:** https://maxlu1980.github.io/narulight-rdw-guide/
+**Live:** https://maxlu1980.github.io/narulight-rdw-guide/
 
-## Features
+This repository holds the published build only.
 
-- Trilingual UI (日本語 / English / 繁體中文)
-- Light / dark theme toggle
-- 4-step cross-section diagram with insulation toggle (Model A / B)
-- 3D model previews via KIRI Engine
-- Interactive timeline with detail modals
-- Specs tables, LCC chart, comparison & quotation tools
-
-## Stack
-
-Static HTML / CSS / JavaScript. No build step, no dependencies.
-Open `index.html` locally or visit the live URL.
-
-## Files
-
-| File            | Purpose                                          |
-|-----------------|--------------------------------------------------|
-| `index.html`    | Main page, all CSS, hero / sections / timeline   |
-| `quotation.js`  | Quotation builder module                         |
-| `comparison.js` | Method comparison module                         |
-
-## Credits
-
-© 好時新創有限公司 (Good Startup Co., Ltd.) — exclusive Taiwan distributor.
-Manufacturer: 成瀬化学株式会社 (Naruse Chemical Co., Ltd.), Japan.
+© 好時新創有限公司 Good Startup Co., Ltd. — authorized dealer in Taiwan. Manufacturer: 成瀬化学株式会社 (Narusekagaku), Japan.
+This is not the manufacturer's official website. Map data © OpenStreetMap contributors (ODbL); 3D city model: PLATEAU (CC BY 4.0).
